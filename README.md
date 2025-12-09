@@ -1,15 +1,41 @@
 ## Hi there 👋
-Desarrollador backend soltero
+I'm Rubén Ramos!
 
-is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Software Engineer | Backend Enthusiast
 
-- Actualmente estoy trabajando en el desarrollo de la Plataforma de Estandarización y Gestión Documental CFE (PEGD-CFE)
-<!--
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+I'm a passionate developer focused on building robust backend systems and database architectures.
+
+- 🌱 I’m currently learning **Go (Golang)**
+- ⚡ Fun fact: I love videogames [steam](https://steamcommunity.com/profiles/76561198833831619/)
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**
+
+[![Languages](https://skillicons.dev/icons?i=php&perline=3)](https://skillicons.dev)
+
+
+**Frameworks & Tools:**
+
+[![Frameworks](https://skillicons.dev/icons?i=laravel,bootstrap)](https://skillicons.dev)
+
+[![Tools](https://skillicons.dev/icons?i=gcp,mysql,git,github,npm,vite,vscode)](https://skillicons.dev)
+
+---
+### 💼 Key Projects
+
+**Standardization and Document Management Platform (PEGD)**
+*Developed for CFE (Federal Electricity Commission)*
+
+- 📫 How to reach me:
+[LinkedIn](https://linkedin.com/in/ruben-dario-chavarria)
+
+<!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
