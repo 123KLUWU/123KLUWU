@@ -1,9 +1,9 @@
 ## Hi there 👋
-I'm Rubén Ramos!
+I'm ∎∎∎∎∎∎∎∎
 
 ### Software Engineer | Backend Enthusiast
 
-I'm a passionate developer focused on building robust backend systems and database architectures. I manage servers
+I'm a passionate developer focused on building robust backend systems and database architectures. I also manage servers
 
 - 🌱 I’m currently learning **Go (Golang)**
 - ⚡ Fun fact: I love videogames [steam](https://steamcommunity.com/profiles/76561198833831619/)
